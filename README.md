@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Github, buscador de conhecimento! 📚✨
 
-## Meu nome é [Jean Arthur Costa Dias]
+## Meu nome é Jean Arthur Costa Dias
 
 - Sou um entusiasta de Data Science e Machine Learning;
 - Sou Bolsista PIBIC/CNPQ e graduando em Engenharia da Computação pela Universidade Federal do Pará (UFPA);
