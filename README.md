@@ -1,5 +1,3 @@
-# Bem-vindo ao meu Github, buscador de conhecimento! 📚✨
-
 ## Meu nome é Jean Arthur Costa Dias
 
 - Sou um entusiasta de Data Science e Machine Learning; 
@@ -18,7 +16,7 @@ Projetos em que estou trabalhando:
 
 3. **Previsão de Séries Temporais**: Implementação de modelos de previsão de séries temporais para prever tendências futuras em dados ambientais. 📈⏰
 
-4. **Aprimoramento de Dados Coletados por Sensoriamento Removo**: Implementação de modelos de otimização para realizar ajustes finos em algoritmos de satélites a fim de obter melhor precisão dos dados. 🛰️🛠️
+4. **Aprimoramento de Dados Coletados por Sensoriamento Remoto**: Implementação de modelos de otimização para realizar ajustes finos em algoritmos de satélites a fim de obter melhor precisão dos dados. 🛰️🛠️
 <!--
 **JeanArthurCostaDias/JeanArthurCostaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
