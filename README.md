@@ -12,16 +12,16 @@ Projetos em que estou trabalhando:
 
 1. **Análise de Dados Climáticos e Meteorológicos**: Modelagem e exploração de dados históricos para detecção de padrões e previsão de tendências. 🌦️🔍
    
-2. **Visão computacional com Deep Learning Aplicado a Imagens de Satélite**: Desenvolvimento de modelos de visão computacional baseados em Deep Learning para análise e segmentação de imagens de satélite. ☁️🛰️
+2. **Visão Computacional com Deep Learning para Imagens de Satélite**: Desenvolvimento de modelos de visão computacional baseados em Deep Learning para análise e segmentação de imagens de satélite. ☁️🛰️
 
 3. **Previsão de Séries Temporais**: Implementação de modelos para previsão de tendências futuras em dados ambientais. 📈⏰
 
-4. **Aprimoramento de Dados Coletados por Sensoriamento Remoto**: Aplicação de modelos de otimização em algoritmos de satélites para melhorar a precisão dos dados coletados. 🛰️🛠️
+4. **Aprimoramento de Dados Coletados por Sensoriamento Remoto**: Otimização de algoritmos de satélites para aumentar a precisão dos dados coletados. 🛰️🛠️
 
 ## Conhecimentos técnicos
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,sqlite,r,py,pytorch,tensorflow,fastapi,flask,gcp,vscode,opencv,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,mysql,sqlite,r,py,pytorch,tensorflow,fastapi,flask,gcp,git,vscode,opencv,latex" />
   </a>
 </p>
