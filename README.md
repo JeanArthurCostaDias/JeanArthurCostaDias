@@ -3,7 +3,7 @@
 - Sou um entusiasta de Data Science e Machine Learning; 
 - Sou Bolsista PIBIC/CNPQ e graduando em Engenharia da Computação pela Universidade Federal do Pará (UFPA); 🎓
 - Meu foco principal é na pesquisa, com um interesse especial em estatística e probabilidade; 📊🔍
-- Atualmente, estou aprimorando minhas habilidades de programação em Python; 🐍✨
+- Atualmente, estou aprofundando meus conhecimentos técnico-científicos em inteligência artificial, com foco em pesquisa e aplicações práticas; 🧠📈
 
 
 ## Projetos
