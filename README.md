@@ -10,13 +10,13 @@
 
 Projetos em que estou trabalhando:
 
-1. **Análise de Dados Climáticos e Meteorológicos**: Um projeto que analisa dados climáticos e meteorológicos históricos para identificar padrões e tendências climáticas. 🌦️🔍
+1. **Análise de Dados Climáticos e Meteorológicos**: Modelagem e exploração de dados históricos para detecção de padrões e previsão de tendências. 🌦️🔍
    
-2. **Classificação de Nuvem em Imagens de Satélite**: Desenvolvimento de um modelo de classificação de nuvem em imagens de satélite para identificar diferentes tipos de nuvem nas imagens. ☁️🛰️
+2. **Visão computacional com Deep Learning Aplicado a Imagens de Satélite**: Desenvolvimento de modelos de visão computacional baseados em Deep Learning para análise e segmentação de imagens de satélite. ☁️🛰️
 
-3. **Previsão de Séries Temporais**: Implementação de modelos de previsão de séries temporais para prever tendências futuras em dados ambientais. 📈⏰
+3. **Previsão de Séries Temporais**: Implementação de modelos para previsão de tendências futuras em dados ambientais. 📈⏰
 
-4. **Aprimoramento de Dados Coletados por Sensoriamento Remoto**: Implementação de modelos de otimização em algoritmos de satélites a fim de obter melhor precisão dos dados. 🛰️🛠️
+4. **Aprimoramento de Dados Coletados por Sensoriamento Remoto**: Aplicação de modelos de otimização em algoritmos de satélites para melhorar a precisão dos dados coletados. 🛰️🛠️
 
 ## Conhecimentos técnicos
 
