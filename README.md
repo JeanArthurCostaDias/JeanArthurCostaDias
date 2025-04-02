@@ -22,7 +22,7 @@ Projetos em que estou trabalhando:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,r,py,pytorch,tensorflow,vscode,opencv,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,mysql,sqlite,r,py,pytorch,tensorflow,fastapi,flask,gcp,vscode,opencv,latex" />
   </a>
 </p>
 
