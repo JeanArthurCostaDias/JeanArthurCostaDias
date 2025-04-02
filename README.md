@@ -17,6 +17,16 @@ Projetos em que estou trabalhando:
 3. **Previsão de Séries Temporais**: Implementação de modelos de previsão de séries temporais para prever tendências futuras em dados ambientais. 📈⏰
 
 4. **Aprimoramento de Dados Coletados por Sensoriamento Remoto**: Implementação de modelos de otimização para realizar ajustes finos em algoritmos de satélites a fim de obter melhor precisão dos dados. 🛰️🛠️
+
+## Conhecimentos técnicos
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,linux,mysql,py,pytorch,tensorflow,vscode&perline=3" />
+  </a>
+</p>
+
+
 <!--
 **JeanArthurCostaDias/JeanArthurCostaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
